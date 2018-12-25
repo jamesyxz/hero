@@ -3,6 +3,7 @@ class  MyTest{
     @Test
     fun hellTest(){
         println("hell")
+        //tt
     }
 }
 
